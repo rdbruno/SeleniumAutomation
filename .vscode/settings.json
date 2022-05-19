@@ -1,0 +1,23 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "drivers/selenium/animal-sniffer-annotations-1.14.jar",
+        "drivers/selenium/byte-buddy-1.8.15.jar",
+        "drivers/selenium/checker-compat-qual-2.0.0.jar",
+        "drivers/selenium/commons-exec-1.3.jar",
+        "drivers/selenium/error_prone_annotations-2.1.3.jar",
+        "drivers/selenium/guava-25.0-jre.jar",
+        "drivers/selenium/j2objc-annotations-1.1.jar",
+        "drivers/selenium/jsr305-1.3.9.jar",
+        "drivers/selenium/okhttp-3.11.0.jar",
+        "drivers/selenium/okio-1.14.0.jar",
+        "drivers/selenium/selenium-api-3.141.59.jar",
+        "drivers/selenium/selenium-chrome-driver-3.141.59.jar",
+        "drivers/selenium/selenium-firefox-driver-3.141.59.jar",
+        "drivers/selenium/selenium-java-3.141.59.jar",
+        "drivers/selenium/selenium-remote-driver-3.141.59.jar",
+        "drivers/selenium/selenium-support-3.141.59.jar"
+    ]
+}
